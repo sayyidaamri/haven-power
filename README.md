@@ -1,3 +1,5 @@
+![Preview](docs/preview/homepage.gif)
+
 # Haven Power — static HTML site
 
 Open `index.html` in a browser. No server or build step is needed.
